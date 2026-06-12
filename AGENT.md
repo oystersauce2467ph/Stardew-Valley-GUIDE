@@ -42,6 +42,34 @@ skills:
 A running, append-only record of our sessions. Newest entries go at the top.
 Each entry: date, what we discussed, decisions made, and any follow-ups.
 
+### 2026-06-12 — Relationships & gifting manual (verified for 1.6.15)
+
+- **Context:** User asked for up-to-date research on Stardew Valley relationships as
+  of version **1.6.15** (confirmed current: PC 1.6.15 Dec 2024, console 1.6.15.1 Feb
+  2025), then to capture it as a beginner user manual and update the repo files.
+- **Request:** Detail the items/food/consumables to raise friendship to max, clearly
+  highlighting **Loves, Likes, and Dislikes per character** in extreme detail.
+- **What I did:**
+  - Researched mechanics, universal gift tastes, and per-character Love/Like/Dislike/
+    Hate lists for **all 34 giftable villagers** from the official Stardew Valley Wiki
+    (used its MediaWiki API at `stardewvalleywiki.com/mediawiki/api.php`, since the
+    HTML pages were not extractable by the fetch tool).
+  - Created **`RELATIONSHIPS.md`** — the beginner manual: mechanics, point-value
+    tables, the fastest max-friendship routine, romance/marriage steps, universal
+    tastes, full per-character gift guide, a "best easy loved gift" cheat sheet, and
+    a birthday calendar.
+  - Updated **`README.md`** into a guide index linking the manual.
+  - Expanded **`SKILL.md`** with the relationship mechanics and the current version,
+    plus a pointer to `RELATIONSHIPS.md`.
+- **Key facts captured (also in the skill):** 250 pts/heart; Love +80 / Like +45 /
+  Neutral +20 / Dislike −20 / Hate −40; birthday ×8; 2 gifts/week; Bouquet at 8 hearts
+  then Mermaid's Pendant at 10 hearts to marry; Haley hates Prismatic Shard; Penny
+  hates Rabbit's Foot; easiest villagers = Clint/Dwarf (any gem).
+- **Open follow-ups:**
+  - Build out the remaining sections (Farming, Fishing, Mining, Cooking, Community
+    Center, Money-Making) referenced in the suggested structure.
+  - Consider adding heart-event summaries per villager (spoiler-tagged).
+
 ### 2026-06-12 — Project memory bootstrapped
 
 - **Context:** The `Stardew-Valley-GUIDE` repository was effectively empty — only a
