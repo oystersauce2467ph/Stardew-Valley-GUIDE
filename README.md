@@ -8,6 +8,7 @@ current game version (**1.6.15** / console **1.6.15.1**).
 | Guide | What it covers |
 | --- | --- |
 | [Relationships & Gifting Manual](RELATIONSHIPS.md) | How friendship works, the fastest way to max hearts, romance & marriage, universal gift tastes, and **per-character Loves / Likes / Dislikes** for every villager, plus a birthday calendar. |
+| [Fastest Completion & Tool/Skill Guide](FASTEST-COMPLETION.md) | The shortest route to "finish" the game (Community Center, Grandpa's 4 candles, Perfection), a **season-by-season plan from Spring Y1**, **which tools to upgrade first**, and the **skills ranked easiest→hardest** with needed-vs-optional notes. |
 
 _More sections (Farming, Fishing, Mining, Cooking, Community Center, Money-Making) are
 planned — see the suggested structure in the project skill._

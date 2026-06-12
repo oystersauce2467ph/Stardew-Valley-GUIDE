@@ -42,6 +42,35 @@ skills:
 A running, append-only record of our sessions. Newest entries go at the top.
 Each entry: date, what we discussed, decisions made, and any follow-ups.
 
+### 2026-06-12 — Fastest completion + tools/skills guide (verified for 1.6.15)
+
+- **Context:** Same session, continuing the 1.6.15 guide work.
+- **Request:** A separate file with the shortest path to complete Stardew Valley in
+  extreme detail — maxing all necessary tools through endgame, laid out season by
+  season from Spring, clarifying which tools to upgrade first, and ranking skills
+  easiest→hardest with whether each is required or optional.
+- **What I did:**
+  - Researched tool upgrade costs/times, the 1.6 **Mastery** system, **Perfection**
+    categories/weights, skill XP, Stardrops, Obelisk/Gold Clock costs, Ginger Island
+    boat repair, and Grandpa's Evaluation — all via the wiki MediaWiki API.
+  - Created **`FASTEST-COMPLETION.md`**: defines the 3 completion milestones (Community
+    Center, Grandpa's 4 candles, Perfection), a Spring-Y1→Y3 season plan, tool-upgrade
+    order with the Winter watering-can trick, skills ranked easiest→hardest + needed-
+    vs-optional, the full Perfection checklist, and quick-reference tables.
+  - Linked it from `README.md` and `SKILL.md`, and added tools/skills/completion facts
+    to the skill's core-knowledge section.
+- **Key facts captured:** Tool upgrades 2 days each (Copper 2k/5 Copper, Steel 5k/5
+  Iron, Gold 10k/5 Gold, Iridium 25k/5 Iridium); skills need 15,000 XP to Lv10;
+  Mastery costs 10k/25k/45k/70k/100k pts and gives Iridium Scythe + Advanced Iridium
+  Rod; Perfection = avg of 11 categories (ship 154, cook 81, craft 149, fish 72, 7
+  Stardrops, 130 walnuts, 12 monster goals, all skills Lv10, 4 Obelisks, 10M Gold
+  Clock, 34 max-heart friends); Grandpa 12+ pts = 4 candles. Skills order easiest→
+  hardest: Foraging, Farming, Mining, Combat, Fishing; all required for Perfection,
+  none required just to beat CC/Grandpa.
+- **Open follow-ups:**
+  - Still planned: Farming, Fishing, Mining, Cooking, Community Center, Money-Making
+    deep-dive sections; optional spoiler-tagged heart events.
+
 ### 2026-06-12 — Relationships & gifting manual (verified for 1.6.15)
 
 - **Context:** User asked for up-to-date research on Stardew Valley relationships as
