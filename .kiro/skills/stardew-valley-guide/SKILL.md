@@ -47,6 +47,10 @@ project from scratch.
   beginner manual: friendship mechanics, point values, romance/marriage, universal
   gift tastes, complete per-character Loves/Likes/Dislikes/Hates for all 34 giftable
   villagers, a "best easy loved gift" cheat sheet, and a birthday calendar.
+- **[`FASTEST-COMPLETION.md`](../../../FASTEST-COMPLETION.md)** — the fastest route to
+  finish the game (Community Center, Grandpa's 4 candles, Perfection 100%), a
+  season-by-season plan from Spring Y1, tool-upgrade order, and skills ranked
+  easiest→hardest with needed-vs-optional notes.
 
 ## Suggested guide structure
 
@@ -71,8 +75,24 @@ A guide repo like this usually organizes well into sections such as:
   season changes (greenhouse and Ginger Island are exceptions).
 - **Energy & time:** Days run from 6:00 AM to 2:00 AM. Passing out costs money/energy.
 - **Community Center vs. JojaMart:** Two mutually exclusive progression paths.
-- **Skills:** Farming, Mining, Foraging, Fishing, Combat — each has level-5 and
-  level-10 profession choices.
+- **Skills:** Farming, Mining, Foraging, Fishing, Combat — each needs 15,000 total XP
+  for level 10, with profession choices at level 5 and level 10. Difficulty to max,
+  easiest→hardest: Foraging, Farming, Mining, Combat, Fishing. All five are
+  **required** for Perfection (the "Farmer Level" category); none is needed merely to
+  beat the Community Center or get Grandpa's 4 candles.
+- **Tool upgrades (Blacksmith, 2 days each, in order):** Copper 2,000g+5 Copper Bars,
+  Steel 5,000g+5 Iron Bars, Gold 10,000g+5 Gold Bars, Iridium 25,000g+5 Iridium Bars.
+  Upgradeable: Pickaxe, Axe, Hoe, Watering Can, Trash Can, Pan. Recommended order:
+  Pickaxe → Hoe → Axe → Watering Can (upgrade in **Winter** to avoid killing crops).
+  Fishing rods come from Willy (Bamboo 500g, Fiberglass 1,800g/Lv2, Iridium 7,500g/Lv6).
+  **Mastery** (1.6, unlocked at Lv10 in all skills) grants the Iridium Scythe and
+  Advanced Iridium Rod — optional for Perfection but powerful.
+- **Completion milestones:** Community Center (Greenhouse, Desert bus, minecarts) →
+  Grandpa's Evaluation (12+ pts = 4 candles; re-check with a Diamond) → **Perfection
+  100%** (averaged across 11 categories incl. ship 154 items, cook 81, craft 149,
+  catch 72 fish, 7 Stardrops, 130 Golden Walnuts, 12 monster goals, all skills Lv10,
+  4 Obelisks, the 10,000,000g Gold Clock, max hearts with all 34 villagers). Full
+  walkthrough lives in [`FASTEST-COMPLETION.md`](../../../FASTEST-COMPLETION.md).
 - **Relationships:** 250 friendship points = 1 heart. Most villagers cap at 10
   hearts; a spouse/roommate reaches 14. Gift point values: **Love +80, Like +45,
   Neutral +20, Dislike −20, Hate −40**. Birthdays multiply gifts ×8 (Winter Star ×5,
