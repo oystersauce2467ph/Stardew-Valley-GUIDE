@@ -25,6 +25,11 @@ project from scratch.
 > **`AGENT.md`** file at the repository root (the "Memory & Chat History Log" section).
 > Read it at the start of a session and append to it at the end.
 
+## Current game version
+
+- Track guidance against **Stardew Valley 1.6.15** (PC, Dec 2024) and **1.6.15.1**
+  (Xbox / PlayStation / Switch, Feb 2025) — the current latest release.
+
 ## Project conventions
 
 - **Repository:** `oystersauce2467ph/Stardew-Valley-GUIDE`
@@ -32,7 +37,16 @@ project from scratch.
 - **Tone:** Friendly, beginner-welcoming, spoiler-aware (flag late-game spoilers).
 - **Structure:** Prefer one topic per file, linked from a top-level index/README.
 - **Accuracy:** Stardew Valley is patched over time — note the game version a tip
-  applies to when behavior is version-specific.
+  applies to when behavior is version-specific. Verify facts against the official
+  [Stardew Valley Wiki](https://stardewvalleywiki.com/) (its MediaWiki API at
+  `https://stardewvalleywiki.com/mediawiki/api.php` returns clean wikitext).
+
+## Guide contents (what exists so far)
+
+- **[`RELATIONSHIPS.md`](../../../RELATIONSHIPS.md)** — the Relationships & Gifting
+  beginner manual: friendship mechanics, point values, romance/marriage, universal
+  gift tastes, complete per-character Loves/Likes/Dislikes/Hates for all 34 giftable
+  villagers, a "best easy loved gift" cheat sheet, and a birthday calendar.
 
 ## Suggested guide structure
 
@@ -59,8 +73,16 @@ A guide repo like this usually organizes well into sections such as:
 - **Community Center vs. JojaMart:** Two mutually exclusive progression paths.
 - **Skills:** Farming, Mining, Foraging, Fishing, Combat — each has level-5 and
   level-10 profession choices.
-- **Relationships:** Gifts (2/week), talking, and birthdays build hearts; gifting a
-  loved item on a birthday gives a large bonus.
+- **Relationships:** 250 friendship points = 1 heart. Most villagers cap at 10
+  hearts; a spouse/roommate reaches 14. Gift point values: **Love +80, Like +45,
+  Neutral +20, Dislike −20, Hate −40**. Birthdays multiply gifts ×8 (Winter Star ×5,
+  the *Friendship 101* book ×1.1; silver/gold/iridium quality add +10/+25/+50% to
+  loves & likes). You may give 2 gifts per villager per week (plus a birthday gift),
+  talk daily (+20), and complete delivery quests (+150). Decay is −2/day until a
+  meter is full; spouses always decay. **Romance:** reach 8 hearts → give a Bouquet
+  (800g, Pierre's) to date → 10 hearts → Mermaid's Pendant (5,000g, Old Mariner on
+  rainy beach days) to marry; Krobus can be a roommate instead. Full details and
+  per-character gift tables live in [`RELATIONSHIPS.md`](../../../RELATIONSHIPS.md).
 
 ## How to keep this skill useful
 
